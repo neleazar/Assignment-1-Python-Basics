@@ -16,7 +16,6 @@ List the tasks or questions included in the assignment, providing a brief descri
 1. **Use for loop to create list like this: ['w','o','r','d'] and save it in my_list**
 
 2. **Write markdown code to embed a website link inside text**
-   - Description: Write a Python program that calculates the sum of numbers from 1 to N, where N is a user-provided integer.
 
 3. **Find maximum and minimum value from given list my_list1**
 
