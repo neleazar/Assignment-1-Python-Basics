@@ -27,12 +27,3 @@ List the tasks or questions included in the assignment, providing a brief descri
 6. **Use markdown code to print image on below website link here inside Jupyter notebook markdown**
 
 7. **Convert object types of values in below mentioned defined dictionary.**
-
-## How to Use This Repository
-
-Explain how to navigate and use this repository to access your assignment solutions, if applicable. For example:
-
-- The solutions for each task are organized in separate folders.
-- To access a specific task's solution, navigate to the corresponding folder.
-- Detailed explanations and code snippets are provided in each task's folder.
-
